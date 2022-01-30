@@ -1,0 +1,14 @@
+n = 5
+while n>0:
+    print(n)
+    n = n - 1
+print("blastoff!")
+    continue
+while n==0:
+    print(n)
+    n = n-1
+print("end me")
+print(n)
+while n<0:
+    print(n)
+    n=n-1
